@@ -1,0 +1,14 @@
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\bin\Debug\net7.0\CrazyLegoKlods.exe
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\bin\Debug\net7.0\CrazyLegoKlods.deps.json
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\bin\Debug\net7.0\CrazyLegoKlods.runtimeconfig.json
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\bin\Debug\net7.0\CrazyLegoKlods.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\bin\Debug\net7.0\CrazyLegoKlods.pdb
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.AssemblyInfoInputs.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.AssemblyInfo.cs
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.csproj.CoreCompileInputs.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\refint\CrazyLegoKlods.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.pdb
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\CrazyLegoKlods.genruntimeconfig.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\SoftwareKonstruktion\Projects\CrazyLegoKlods\CrazyLegoKlods\obj\Debug\net7.0\ref\CrazyLegoKlods.dll
